@@ -9,4 +9,3 @@ This repository contains my personal Selenium automation practice projects. The 
 - **Browser Drivers**: ChromeDriver.
 - **Version Control**: Git & GitHub.
 
-- 
